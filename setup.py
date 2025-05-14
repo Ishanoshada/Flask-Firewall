@@ -5,14 +5,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="flask_flaskwall",
+    name="flask_firewall",
     version="0.1.0",
     author="Ishan Oshada",
     author_email="ic31908@gmail.com",
     description="A comprehensive firewall middleware for Flask applications",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Ishanoshada/flask_flaskwall",
+    url="https://github.com/Ishanoshada/flask_firewall",
     license="MIT",
     packages=setuptools.find_packages(),
     include_package_data=True,
