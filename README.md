@@ -423,3 +423,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **GitHub**: [Ishanoshada](https://github.com/Ishanoshada)
 - **Issues**: [GitHub Issues](https://github.com/Ishanoshada/flask_firewall/issues)
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/flask-firewall/count.svg)
